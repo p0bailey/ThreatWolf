@@ -46,6 +46,30 @@ ThreatWolf supports the following assessments:
 - _“Model prompt injection in this GenAI system.”_  
 - _“Simulate an agent misuse based on the Agentic AI Top 10.”_
 
+<details>
+  <summary>🔍 Click to view example screenshots</summary>
+
+  <p align="center">
+    <img src="./.img/2.png" alt="Screenshot 2" width="80%">
+  </p>
+  <p align="center">
+    <img src="./.img/3.png" alt="Screenshot 3" width="80%">
+  </p>
+  <p align="center">
+    <img src="./.img/4.png" alt="Screenshot 4" width="80%">
+  </p>
+  <p align="center">
+    <img src="./.img/5.png" alt="Screenshot 5" width="80%">
+  </p>
+  <p align="center">
+    <img src="./.img/6.png" alt="Screenshot 6" width="80%">
+  </p>
+  <p align="center">
+    <img src="./.img/7.png" alt="Screenshot 7" width="80%">
+  </p>
+</details>
+
+
 ## Notes
 
 - No data is stored between sessions  
