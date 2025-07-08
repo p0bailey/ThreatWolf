@@ -10,14 +10,14 @@ Systematic threat analysis for CyberSecurity professionals. Identifies vulnerabi
 
 ThreatWolf supports the following assessments:
 
-
 | Domain                    | Framework & Link |
 |---------------------------|------------------|
-| Infrastructure Security   | [OWASP Top 10 Infrastructure Security Risks](https://owasp.org/www-project-top-10-infrastructure-security-risks/) 
-| API Security              | [OWASP API Security Top 10](https://owasp.org/www-project-api-security/) 
-| Web App Security          | [OWASP Web Application Top 10](https://owasp.org/www-project-top-ten/) 
-| LLM App Security          | [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) 
-| Agentic AI Security (2025)| Custom *Agentic AI Top 10* by Phillip Bailey (2025) |
+| Infrastructure Security   | [OWASP Top 10 Infrastructure Security Risks](https://owasp.org/www-project-top-10-infrastructure-security-risks/)  
+| API Security              | [OWASP API Security Top 10](https://owasp.org/www-project-api-security/)  
+| Web App Security          | [OWASP Web Application Top 10](https://owasp.org/www-project-top-ten/)  
+| Data Security             | [OWASP Data Security Top 10](https://github.com/OWASP/www-project-data-security-top-10/blob/main/tab_Top-10.md)  
+| LLM App Security          | [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)  
+| Agentic AI Security (2025)| Custom *Agentic AI Top 10* by Phillip Bailey (2025)
 
 ---
 
