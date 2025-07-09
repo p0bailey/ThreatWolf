@@ -4,7 +4,7 @@
   <img src="./.img/1.png" alt="ThreatWolf Logo" width="50%">
 </p>
 
-Systematic threat analysis for CyberSecurity professionals. Identifies vulnerabilities, assesses risks, and suggests mitigations across digital systems, processes, and infrastructure. Covers STRIDE methodology and OWASP (Infrastructure, APIs, Web Applications, LLMs, Agentic AI) risks, attack vectors, and defensive measures.
+Systematic threat analysis for CyberSecurity professionals. Identifies vulnerabilities, assesses risks, and suggests mitigations across digital systems, processes, and infrastructure. Covers STRIDE methodology and OWASP (Infrastructure, APIs, Web Applications,Data, LLMs, Agentic AI) risks, attack vectors, and defensive measures.
 
 ## Capabilities
 
