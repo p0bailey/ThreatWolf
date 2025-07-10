@@ -4,7 +4,7 @@
   <img src="./.img/1.png" alt="ThreatWolf Logo" width="50%">
 </p>
 
-Systematic threat analysis for CyberSecurity professionals. Identifies vulnerabilities, assesses risks, and suggests mitigations across digital systems, processes, and infrastructure. Covers STRIDE methodology and OWASP (Infrastructure, APIs, Web Applications,Data, LLMs, Agentic AI) risks, attack vectors, and defensive measures.
+Threat analysis toolkit for CyberSecurity professionals. Identifies vulnerabilities, assesses risks, and suggests mitigations across digital systems, processes, and infrastructure. Covers STRIDE methodology and OWASP (Infrastructure, APIs, Web Applications,Data, LLMs, Agentic AI) risks, attack vectors, and defensive measures.
 
 ## Capabilities
 
@@ -33,11 +33,10 @@ ThreatWolf supports the following assessments:
 
 1. Visit: 🐺 [ThreatWolf on ChatGPT](https://chatgpt.com/g/g-686a4c1fe6bc81919dca0a4223a665a9-threatwolf)  
 2. Upload your architecture diagram (e.g. C4, DFD, Swagger)  
-3. Ask for:  
-   - STRIDE analysis  
-   - OWASP risk reviews  
-   - Mitigation advice  
-   - Example threat scenarios
+3. Add business context:  
+   - Industry, compliance requirements, criticality level  
+   - Technical stack, deployment model, user types  
+   - Existing security controls and known risks
 
 # Example Prompts
 
@@ -75,3 +74,8 @@ ThreatWolf supports the following assessments:
 - No data is stored between sessions  
 - Works best with diagrams or structured descriptions  
 - Built for security teams, architects, and red teams
+
+## Critical Disclaimer
+
+CRITICAL: Users must independently verify all threats, vulnerabilities, and security information provided. This analysis is for guidance only, 
+do not act on recommendations without proper verification through authoritative sources.
