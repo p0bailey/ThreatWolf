@@ -4,7 +4,7 @@
   <img src="./.img/1.png" alt="ThreatWolf Logo" width="50%">
 </p>
 
-Threat analysis toolkit for CyberSecurity professionals. Identifies vulnerabilities, assesses risks, and suggests mitigations across digital systems, processes, and infrastructure. Covers STRIDE methodology and OWASP (Infrastructure, APIs, Web Applications,Data, LLMs, Agentic AI) risks, attack vectors, and defensive measures.
+Threat modelling GPT copilot for CyberSecurity professionals. Identifies vulnerabilities, assesses risks, and suggests mitigations across digital systems, processes, and infrastructure. Covers STRIDE methodology and OWASP (Infrastructure, APIs, Web Applications, Data, LLMs, Generative and Agentic AI) risks, attack vectors, and defensive measures.
 
 ## Capabilities
 
@@ -24,16 +24,17 @@ ThreatWolf supports the following assessments:
 ## Use Cases
 
 - Architecture risk reviews  
-- Secure design workshops  
+- Secure design workshops
+- Generative and Agentic AI system risk assessments  
 - API and application threat analysis  
 - Infrastructure threat modelling  
-- Agentic AI system risk assessments
+
 
 ## How to Use
 
 1. Visit: 🐺 [ThreatWolf on ChatGPT](https://chatgpt.com/g/g-686a4c1fe6bc81919dca0a4223a665a9-threatwolf)  
 2. Upload your architecture diagram (e.g. C4, DFD, Swagger)  
-3. Add business context:  
+3. Add additional context:  
    - Industry, compliance requirements, criticality level  
    - Technical stack, deployment model, user types  
    - Existing security controls and known risks
@@ -73,7 +74,7 @@ ThreatWolf supports the following assessments:
 
 - No data is stored between sessions  
 - Works best with diagrams or structured descriptions  
-- Built for security teams, architects, and red teams
+- Built for cybersecurity architects, security teams, and red teams
 
 ## Critical Disclaimer
 
